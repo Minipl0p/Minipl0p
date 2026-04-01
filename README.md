@@ -21,15 +21,6 @@ What drives me?
 
 I don't just write code—I engineer solutions.
 
-```typescript
-const minipl0p = {
-  background: "Industrial Engineering",
-  current: "42 School Student",
-  interests: ["Algorithms", "Data Science", "AI/ML", "Systems Programming"],
-  mindset: "Solve the problem, then optimize the solution"
-};
-```
-
 ---
 
 ## 🛠️ Tech Stack
