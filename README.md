@@ -6,15 +6,13 @@
 *Problem solver at heart | Algorithm enthusiast | 42 Student*
 
 [![42 Profile](https://img.shields.io/badge/42-Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/your-login)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paul-chazalmartin)
 
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-
-I'm not your typical developer. 
 
 With a **Master's in Industrial Project Management**, I've spent years solving complex problems—just not with code. Now, I'm channeling that **analytical mindset** into software development at **42 School**.
 
