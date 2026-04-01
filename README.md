@@ -55,7 +55,7 @@ Here are some highlights from my journey at 42:
 - **[Fract-Ol](https://github.com/Minipl0p/Fract-Ol)** — Fractal visualiser 
   `C` `Algorithms` `Memory Management`
 
-**[MiniShell](https://github.com/Minipl0p/Minishell2)** — Custom shell inspired by Bash  
+- **[MiniShell](https://github.com/Minipl0p/Minishell2)** — Custom shell inspired by Bash  
   `C` `Fork & Exec` `Signal Handling`
 
 - **[Push_swap](https://github.com/Minipl0p/push_swap_beam)** — Sorting algorithm optimization  
