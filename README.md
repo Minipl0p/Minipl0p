@@ -52,16 +52,13 @@ I don't just write code—I engineer solutions.
 ### 🔹 42 Core Projects
 Here are some highlights from my journey at 42:
 
-- **[Libft](link-to-repo)** — My own C library reimplementation  
+- **[Fract-Ol](https://github.com/Minipl0p/Fract-Ol)** — Fractal visualiser 
   `C` `Algorithms` `Memory Management`
 
-- **[ft_printf](link-to-repo)** — Custom printf function  
-  `C` `Variadic Functions` `Low-level`
+**[MiniShell](https://github.com/Minipl0p/Minishell2)** — Custom shell inspired by Bash  
+  `C` `Fork & Exec` `Signal Handling`
 
-- **[Get Next Line](link-to-repo)** — File reading with static variables  
-  `C` `File I/O` `Buffer Management`
-
-- **[Push_swap](link-to-repo)** — Sorting algorithm optimization  
+- **[Push_swap](https://github.com/Minipl0p/push_swap_beam)** — Sorting algorithm optimization  
   `C` `Algorithms` `Optimization`
 
 *More projects coming as I progress through the cursus!*
