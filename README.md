@@ -45,23 +45,6 @@ I don't just write code—I engineer solutions.
 
 ---
 
-## 📊 GitHub & 42 Stats
-
-<div align="center">
-
-### GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minipl0p&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minipl0p&layout=compact&theme=tokyonight&hide_border=true)
-
-### 42 Progress
-[![42 Stats](https://badge42.vercel.app/api/v2/your-42-login/stats?cursus=42cursus&darkmode=true)](https://github.com/JaeSeoKim/badge42)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 > 🏗️ Building my portfolio with projects from **42 School** and personal explorations
